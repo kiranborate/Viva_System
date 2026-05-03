@@ -67,5 +67,5 @@ Dashboard → Subject Selection → Practice → Result
 - Score calculation
 - Progress tracking
 
-Your Name
+Kiran Borate
 This project is for educational use.
